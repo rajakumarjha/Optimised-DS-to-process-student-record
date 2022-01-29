@@ -28,3 +28,8 @@ User should be able to (Functionality)
           Search: O(nlogn) in worst case when search the Linked list and after that tree
           Delete: O(nlogn) in worst case when search the Linked list and after that tree
           Memory: O(n) store extra linked list address
+
+##  How to use this code
+1. Clone the code to your local
+2. Run it for first time, it will throw some error as there will be mo file in the present directory (it will create a new file)
+3. Re-run the app, boom!! You are good to go.
