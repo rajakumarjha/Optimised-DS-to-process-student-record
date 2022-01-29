@@ -31,7 +31,7 @@ User should be able to (Functionality)
 
 ##  How to use this code
 1. Clone the code to your local
-2. Run it for first time, it will throw some error as there will be mo file in the present directory (it will create a new file)
+2. Run it for first time, it will throw IO error as there will be mo file in the present directory (it will create a new file)
 3. Re-run the app, boom!! You are good to go.
 
 ## Remark
